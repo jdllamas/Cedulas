@@ -1,3 +1,23 @@
+<<<<<<< HEAD
 * text=auto
 *.css linguist-vendored
 *.less linguist-vendored
+=======
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Custom for Visual Studio
+*.cs     diff=csharp
+
+# Standard to msysgit
+*.doc	 diff=astextplain
+*.DOC	 diff=astextplain
+*.docx diff=astextplain
+*.DOCX diff=astextplain
+*.dot  diff=astextplain
+*.DOT  diff=astextplain
+*.pdf  diff=astextplain
+*.PDF	 diff=astextplain
+*.rtf	 diff=astextplain
+*.RTF	 diff=astextplain
+>>>>>>> d88e22bb90396b1738532a78269b39d91e81dbd8
